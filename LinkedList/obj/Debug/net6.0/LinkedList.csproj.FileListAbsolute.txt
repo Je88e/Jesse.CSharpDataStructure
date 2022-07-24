@@ -1,0 +1,15 @@
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\bin\Debug\net6.0\LinkedList.exe
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\bin\Debug\net6.0\LinkedList.runtimeconfig.json
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\bin\Debug\net6.0\LinkedList.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\LinkedList.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\refint\LinkedList.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\LinkedList.pdb
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\LinkedList.genruntimeconfig.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll
