@@ -11,6 +11,6 @@
         //LinkedList.CircleLinkedList.CircleLinkedListTest.DoTest();
 
         //循环链表约瑟夫问题
-        LinkedList.CircleLinkedList.CircleLinkedListTest.JosephusTest(41,3);
+        //LinkedList.CircleLinkedList.CircleLinkedListTest.JosephusTest(41,3);
     }
 }

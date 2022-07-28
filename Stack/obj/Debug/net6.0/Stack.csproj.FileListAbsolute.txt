@@ -1,0 +1,15 @@
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\bin\Debug\net6.0\Stack.exe
+d:\JC\Projects\Jesse.CSharpDataStructure\Stack\bin\Debug\net6.0\Stack.deps.json
+d:\JC\Projects\Jesse.CSharpDataStructure\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\bin\Debug\net6.0\Stack.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\bin\Debug\net6.0\Stack.pdb
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\Stack.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\refint\Stack.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\Stack.pdb
+d:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+d:\JC\Projects\Jesse.CSharpDataStructure\Stack\obj\Debug\net6.0\ref\Stack.dll
