@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\LinkedList\\LinkedList.csproj",
-      "projectName": "LinkedList",
-      "projectPath": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\LinkedList\\LinkedList.csproj",
+      "projectUniqueName": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\Queue\\Queue.csproj",
+      "projectName": "Queue",
+      "projectPath": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\Queue\\Queue.csproj",
       "packagesPath": "C:\\Users\\Sino\\.nuget\\packages\\",
-      "outputPath": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\LinkedList\\obj\\",
+      "outputPath": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sino\\AppData\\Roaming\\NuGet\\NuGet.Config",

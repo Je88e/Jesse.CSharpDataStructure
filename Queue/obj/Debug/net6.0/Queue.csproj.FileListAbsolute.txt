@@ -1,0 +1,15 @@
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\bin\Debug\net6.0\Queue.exe
+d:\JC\Projects\Jesse.CSharpDataStructure\Queue\bin\Debug\net6.0\Queue.deps.json
+d:\JC\Projects\Jesse.CSharpDataStructure\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\bin\Debug\net6.0\Queue.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\bin\Debug\net6.0\Queue.pdb
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\Queue.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\refint\Queue.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\Queue.pdb
+d:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+d:\JC\Projects\Jesse.CSharpDataStructure\Queue\obj\Debug\net6.0\ref\Queue.dll

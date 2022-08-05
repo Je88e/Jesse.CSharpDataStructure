@@ -19,7 +19,7 @@ namespace Stack
         }
         public ArrayStack()
         {
-            this.nodes = new T[4];
+            this.nodes = new T[0];
             this.size = 0;
         }
         /// <summary>

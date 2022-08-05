@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Stack
 {
-    public class StackNode<T>
+    public class StackNode<T> 
     {
         public T Item { get; set; }
         public StackNode<T> Next { get; set; }

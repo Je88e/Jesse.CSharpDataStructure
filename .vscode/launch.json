@@ -2,6 +2,17 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Queue .NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Queue/bin/Debug/net6.0/Queue.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Queue",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
             "name": "Stack .NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",

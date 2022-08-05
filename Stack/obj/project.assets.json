@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\Stack\\Stack.csproj",
+      "projectUniqueName": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\Stack\\Stack.csproj",
       "projectName": "Stack",
-      "projectPath": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\Stack\\Stack.csproj",
+      "projectPath": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\Stack\\Stack.csproj",
       "packagesPath": "C:\\Users\\Sino\\.nuget\\packages\\",
-      "outputPath": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\Stack\\obj\\",
+      "outputPath": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\Stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sino\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
