@@ -1,0 +1,15 @@
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\bin\Debug\net6.0\Tree.exe
+d:\JC\Projects\Jesse.CSharpDataStructure\Tree\bin\Debug\net6.0\Tree.deps.json
+d:\JC\Projects\Jesse.CSharpDataStructure\Tree\bin\Debug\net6.0\Tree.runtimeconfig.json
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\bin\Debug\net6.0\Tree.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\bin\Debug\net6.0\Tree.pdb
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\Tree.csproj.AssemblyReference.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\Tree.AssemblyInfoInputs.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\Tree.AssemblyInfo.cs
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\Tree.csproj.CoreCompileInputs.cache
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\Tree.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\refint\Tree.dll
+D:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\Tree.pdb
+d:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\Tree.genruntimeconfig.cache
+d:\JC\Projects\Jesse.CSharpDataStructure\Tree\obj\Debug\net6.0\ref\Tree.dll

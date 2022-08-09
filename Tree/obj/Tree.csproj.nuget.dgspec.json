@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\LinkedList\\LinkedList.csproj": {}
+    "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\Tree\\Tree.csproj": {}
   },
   "projects": {
-    "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\LinkedList\\LinkedList.csproj": {
+    "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\Tree\\Tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\LinkedList\\LinkedList.csproj",
-        "projectName": "LinkedList",
-        "projectPath": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\Tree\\Tree.csproj",
+        "projectName": "Tree",
+        "projectPath": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\Tree\\Tree.csproj",
         "packagesPath": "C:\\Users\\Sino\\.nuget\\packages\\",
-        "outputPath": "D:\\JC\\Projects\\Jesse.CSharpDataStructure\\LinkedList\\obj\\",
+        "outputPath": "d:\\JC\\Projects\\Jesse.CSharpDataStructure\\Tree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sino\\AppData\\Roaming\\NuGet\\NuGet.Config",
